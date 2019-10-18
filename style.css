@@ -10,7 +10,7 @@ header{
 }
 .all{
   width: 930px;
-  height: 540px;
+  height: 550px;
   background-color: #990909;
   margin:auto;
 }
@@ -85,5 +85,5 @@ footer{
   background-color:#E95B11 ;
   color: #FFFFFF ;
   text-align: center;
-  margin: 20px 2px 40px 10px;
+  margin: 20px 2px 0px 10px;
 }
